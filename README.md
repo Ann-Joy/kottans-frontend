@@ -17,3 +17,8 @@
 1. I took the course "Introduction to Git and GitHub" on Coursera. It was interesting but a bit difficult to understand. More practice is needed.
 1. I was surprised that conflicts are not as difficult to resolve as I thought.
 1. Undoubtedly, the knowledge I received will be useful in further studies
+
+## Intro to HTML and CSS
+
+I started learning about front end at the beginning of this spring. Therefore, I already have basic knowledge of html and css. There was nothing new or surprising at this stage of the task. But it was good to refresh and structure the existing knowledge.
+Since I want to change my profession, I hope to use this knowledge in my future work.
