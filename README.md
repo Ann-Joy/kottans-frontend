@@ -22,3 +22,9 @@
 
 I started learning about front end at the beginning of this spring. Therefore, I already have basic knowledge of html and css. There was nothing new or surprising at this stage of the task. But it was good to refresh and structure the existing knowledge.
 Since I want to change my profession, I hope to use this knowledge in my future work.
+
+## Responsive Web Design
+
+1. Everything I learned at this stage was new to me, namely markup using FlexBox and Grid.
+1. I was surprised by the great possibilities of positioning objects using FlexBox.
+1. I will use the capabilities of FlexBox to create responsive sites.
